@@ -1,2 +1,2 @@
 # Testing Practice
-JavaScript Course - The Odin Project
+The Odin Project - JavaScript Course
