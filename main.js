@@ -1,6 +1,12 @@
 function capitalize(str) {
-    let firstLetter = str.charAt(0).toUpperCase() // M
-    return firstLetter
+    let firstLetter = str.charAt(0).toUpperCase(); // M
+    let restOfStr = str.slice(1);
+    return firstLetter + restOfStr;
 }
 
-console.log(capitalize('miller'))
+function reverseString(str) {
+    let revStr = str.split('').reverse().join('');
+    return revStr;
+}
+
+export { capitalize, reverseString };
