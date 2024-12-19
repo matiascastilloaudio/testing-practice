@@ -1,24 +1,24 @@
 {
-  "name": "testing-practice",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/matiascastilloaudio/testing-practice.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/matiascastilloaudio/testing-practice/issues"
-  },
-  "homepage": "https://github.com/matiascastilloaudio/testing-practice#readme",
-  "description": "",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+    "name": "testing-practice",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matiascastilloaudio/testing-practice.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/matiascastilloaudio/testing-practice/issues"
+    },
+    "homepage": "https://github.com/matiascastilloaudio/testing-practice#readme",
+    "description": "",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
 }
